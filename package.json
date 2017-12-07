@@ -1,0 +1,22 @@
+{
+  "name": "pure-rules",
+  "version": "1.0.0",
+  "description": "url参数转成object对象 hh哈哈",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxvhua/pure-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenxvhua/pure-rules/issues"
+  },
+  "homepage": "https://github.com/chenxvhua/pure-rules#readme",
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
